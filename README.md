@@ -1,2 +1,12 @@
 # Celsius-Fahrenheit-Converter
-Simple PyQt5 program
+
+This is an Python application which is written by `PyQt5` library to convert degrees.
+
+### RUN
+
+` $ python3 app.py`
+
+### REQUIREMENTS
+
+- Python3
+- PyQt5
