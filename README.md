@@ -8,5 +8,5 @@ This is an Python application which is written by `PyQt5` library to convert deg
 
 ### REQUIREMENTS
 
-- Python3
+- Python 3.6
 - PyQt5
